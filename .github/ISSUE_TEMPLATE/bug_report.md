@@ -1,7 +1,6 @@
-
 ---
-name: "🐛 Bug Report / Reportar error"
-about: "Report bugs or problems with FL26 Suite"
+name: "Bug Report / Reportar error"
+about: "Report a problem with FL26 Suite"
 title: "[BUG] "
 ---
 
@@ -25,4 +24,4 @@ What should happen?
 ## Screenshots or Logs
 Attach screenshots or error logs if available.
 
-**Privacy:** Remove passwords, tokens and personal information before uploading.
+**Privacy:** Do not share passwords, tokens or personal information.
